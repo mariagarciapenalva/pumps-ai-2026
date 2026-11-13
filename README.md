@@ -18,7 +18,7 @@ María García Penalva · UNED · PUMPS+AI Summer School 2026
 - FEM solver: second-order convergence (fitted order 2.27), CFL-stable over 752 timesteps
 - Forward PINN: fails due to PDE gradient pathology (10⁴× data gradient) — reproduces Wang et al. 2021
 - SIREN surrogate (v5): ~1% relative error, trained in 13.8s on Tesla T4.
-- Poster: [poster/poster.pdf](poster/poster.pdf)
+- Poster: [poster/pumps26_seismic_poster_final.pdf](poster/pumps26_seismic_poster_final.pdf)
 
 ## Requirements
 
