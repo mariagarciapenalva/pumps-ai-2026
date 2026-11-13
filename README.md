@@ -39,7 +39,7 @@ CUDA 12+, PyTorch, NumPy, SciPy, matplotlib
 - NTK-based adaptive loss weighting (Wang, Yu & Perdikaris 2022).
 - Balanced residual decay rate (BRDR) weighting (Chen, Howard & Stinis 2024).
 - Physics-constrained surrogate for well-posed inversion, following the SIREN full-waveform inversion setup (Sitzmann et al. 2020).
-- Weak-form PDE residual and matched layer boundaries.
+- Weak-form PDE residual and perfectly matched layer boundaries.
 
 ## References
 
